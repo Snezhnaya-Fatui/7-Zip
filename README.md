@@ -1,5 +1,4 @@
-# test
-Here are the installation instructions for 7-Zip on different operating systems:
+# Here are the installation instructions for 7-Zip on different operating systems:
 
 ### Windows
 
