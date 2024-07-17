@@ -23,7 +23,7 @@
    - Run the following commands to install `p7zip`:
      ```
      sudo apt update
-     sudo apt install p7zip
+     sudo apt install p7zip-full
      ```
 
 2. **Verify Installation**:
